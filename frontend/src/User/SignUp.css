@@ -1,0 +1,13 @@
+.SignUp {
+    margin: auto;
+ }
+ 
+ .SignUp input {
+    display: block;
+    margin: 5px 0 5px 0;
+ }
+ 
+ .SignUp button {
+    display: block;
+    margin: auto;
+ }

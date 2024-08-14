@@ -1,0 +1,8 @@
+.JobList h1 {
+    background-color: rgba(255,255,255, 0.6);
+    width: 60vw;
+    margin: auto;
+    border: 5px solid rgba(255,255,255, 0.6);
+    border-radius: 30px;
+    margin-top: 30px;
+ }
